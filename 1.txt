@@ -1,0 +1,2 @@
+do barplot 
+do assignment
